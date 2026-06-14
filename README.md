@@ -20,22 +20,28 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 
 ## What I Do
 
-| 🎨 Design | 💻 Development | ⚡ Automation |
-|---|---|---|
-| Brand Identity | Website Development | Business Process Automation |
-| Logo Design | Landing Pages | Client Workflow Systems |
-| UI/UX Design | Frontend Development | CRM & Sheets Automation |
-| Graphic Design | Web App Development | Proposal Automation |
-| Packaging Design | Dashboard/UI Development | AI-assisted Workflows |
-| Pitch Decks | Portfolio Websites | Internal Tools |
-| Social Media Creatives | No-code / Low-code Builds | Process Optimization |
+I help founders, startups, and businesses build strong brands, clean digital products, and smarter workflow systems.
+
+### 🎨 Design
+
+`Brand Identity` `Logo Design` `UI/UX Design` `Graphic Design` `Packaging Design` `Pitch Decks` `Social Media Creatives` `Creative Direction`
+
+### 💻 Development
+
+`Website Development` `Landing Pages` `Frontend Development` `Web App Development` `Dashboard/UI Development` `Portfolio Websites` `No-code / Low-code Builds`
+
+### ⚡ Automation
+
+`Business Process Automation` `Client Workflow Systems` `CRM & Sheets Automation` `Proposal Automation` `AI-assisted Workflows` `Internal Tools` `Process Optimization`
+
+---
 
 ## Connect With Me
 
 🌍 Based in India, working with clients worldwide  
 🌐 Portfolio: [lalitbahel.com](https://lalitbahel.com)  
 📩 Email: [hello@lalitbahel.com](mailto:hello@lalitbahel.com)  
-⚡ Currently building brand identities, websites and automation systems for founders
+⚡ Currently building brand identities, websites, web apps, and automation systems for founders
 
 
 ---
