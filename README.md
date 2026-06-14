@@ -28,9 +28,9 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 
 ## Tools I Work With
 <div align="center">
+  
 **Design**
 
-<div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -64,10 +64,10 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-
 </div>
----
 
+
+---
 ## GitHub Stats
 
 <table align="center" border="0" cellspacing="0" cellpadding="8">
