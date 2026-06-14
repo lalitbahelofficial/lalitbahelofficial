@@ -20,37 +20,53 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 
 ## What I Do
 
-### Design Services
-- Brand Identity & Logo Design
-- Graphic Design
-- UI/UX Design
-- Packaging Design
-- Pitch Decks & Presentations
-- Social Media Creatives
-- Creative Direction
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎨 Design</h3>
+      <ul>
+        <li>Brand Identity & Logo Design</li>
+        <li>Graphic Design</li>
+        <li>UI/UX Design</li>
+        <li>Packaging Design</li>
+        <li>Pitch Decks & Presentations</li>
+        <li>Social Media Creatives</li>
+        <li>Creative Direction</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Development</h3>
+      <ul>
+        <li>Website Design & Development</li>
+        <li>Landing Pages</li>
+        <li>Frontend Development</li>
+        <li>Web App Development</li>
+        <li>Dashboard/UI Development</li>
+        <li>Portfolio & Business Websites</li>
+        <li>No-code / Low-code Builds</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Automation</h3>
+      <ul>
+        <li>Business Process Automation</li>
+        <li>Client Workflow Systems</li>
+        <li>Forms, Sheets & CRM Automation</li>
+        <li>Document & Proposal Automation</li>
+        <li>AI-assisted Workflow Setup</li>
+        <li>Internal Tools & Systems</li>
+        <li>Process Optimization</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Development Services
-- Website Design & Development
-- Landing Pages
-- Frontend Development
-- Web App Development
-- Portfolio & Business Websites
-- Dashboard/UI Development
-- No-code/Low-code Builds
+## Connect With Me
 
-### Automation Services
-- Business Process Automation
-- Client Workflow Systems
-- Forms, Sheets & CRM Automation
-- Document & Proposal Automation
-- AI-assisted Workflow Setup
-
-- 🌍 **Based in India** — working with clients worldwide
-- 💼 **Portfolio:** [lalitbahel.com](https://lalitbahel.com)
-- 📬 **Say hi:** [hello@lalitbahel.com](mailto:hello@lalitbahel.com)
-- ⚡ **Currently:** Building brand identities for founders and SaaS companies
-
----
+- 🌍 Based in India, working with clients worldwide
+- 🌐 Portfolio: [lalitbahel.com](https://lalitbahel.com)
+- 📩 Email: [hello@lalitbahel.com](mailto:hello@lalitbahel.com)
+- ⚡ Currently building brand identities, websites and automation systems for founders
 
 ## Tools I Work With
 <div align="center">
