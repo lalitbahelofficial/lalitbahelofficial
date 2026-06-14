@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## Hey, I'm Lalit 👋
 
 I help founders and growing businesses turn ideas into memorable visual identities — from the first logo sketch to a complete brand system ready to ship.
@@ -46,6 +46,7 @@ I help founders, startups, and businesses build strong brands, clean digital pro
 
 ---
 ## Tools I Work With
+</div>
 <div align="center">
   
 **Design**
