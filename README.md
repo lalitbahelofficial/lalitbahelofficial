@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316,CC5200,FF8C00&height=220&section=header&text=Lalit%20Bahel&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Graphic%20Designer%20%26%20Brand%20Strategist&descAlign=50&descAlignY=60&descColor=FFE0CC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:CC5200,100:FF8C00&height=220&section=header&text=Lalit%20Bahel&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Graphic%20Designer%20%7C%20Brand%20Strategist&descAlign=50&descAlignY=60&descColor=FFE0CC" width="100%"/>
 
 <div align="center">
 
