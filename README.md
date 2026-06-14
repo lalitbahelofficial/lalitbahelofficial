@@ -18,7 +18,33 @@
 
 I help founders and growing businesses turn ideas into memorable visual identities — from the first logo sketch to a complete brand system ready to ship.
 
-- 🎨 **Services:** Branding, packaging design, pitch decks, social media, web design
+## What I Do
+
+### Design Services
+- Brand Identity & Logo Design
+- Graphic Design
+- UI/UX Design
+- Packaging Design
+- Pitch Decks & Presentations
+- Social Media Creatives
+- Creative Direction
+
+### Development Services
+- Website Design & Development
+- Landing Pages
+- Frontend Development
+- Web App Development
+- Portfolio & Business Websites
+- Dashboard/UI Development
+- No-code/Low-code Builds
+
+### Automation Services
+- Business Process Automation
+- Client Workflow Systems
+- Forms, Sheets & CRM Automation
+- Document & Proposal Automation
+- AI-assisted Workflow Setup
+
 - 🌍 **Based in India** — working with clients worldwide
 - 💼 **Portfolio:** [lalitbahel.com](https://lalitbahel.com)
 - 📬 **Say hi:** [hello@lalitbahel.com](mailto:hello@lalitbahel.com)
