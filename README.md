@@ -21,7 +21,7 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 ## What I Do
 
 I help founders, startups, and businesses build strong brands, clean digital products, and smarter workflow systems.
-<div align="center">
+
 ### 🎨 Design
 
 `Brand Identity` `Logo Design` `UI/UX Design` `Graphic Design` `Packaging Design` `Pitch Decks` `Social Media Creatives` `Creative Direction`
@@ -33,7 +33,8 @@ I help founders, startups, and businesses build strong brands, clean digital pro
 ### ⚡ Automation
 
 `Business Process Automation` `Client Workflow Systems` `CRM & Sheets Automation` `Proposal Automation` `AI-assisted Workflows` `Internal Tools` `Process Optimization`
-</div>
+
+
 ---
 
 ## Connect With Me
