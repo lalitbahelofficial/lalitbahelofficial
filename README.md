@@ -43,15 +43,16 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lalitbahelofficial&show_icons=true&theme=transparent&bg_color=0D1117&border_color=F97316&icon_color=F97316&title_color=F97316&text_color=C9D1D9&ring_color=F97316&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
-
-&nbsp;&nbsp;
-
-<img height="160" src="https://streak-stats.demolab.com/?user=lalitbahelofficial&theme=dark&background=0D1117&border=F97316&ring=F97316&fire=FF8C00&currStreakLabel=F97316&sideLabels=F97316&dates=C9D1D9" alt="GitHub Streak"/>
-
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td>
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=lalitbahelofficial&show_icons=true&theme=transparent&bg_color=0D1117&border_color=F97316&icon_color=F97316&title_color=F97316&text_color=C9D1D9&ring_color=F97316&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img height="160" src="https://streak-stats.demolab.com/?user=lalitbahelofficial&theme=dark&background=0D1117&border=F97316&ring=F97316&fire=FF8C00&currStreakLabel=F97316&sideLabels=F97316&dates=C9D1D9" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
