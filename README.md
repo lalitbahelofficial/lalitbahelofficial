@@ -27,7 +27,7 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 ---
 
 ## Tools I Work With
-
+<div align="center">
 **Design**
 
 <div align="center">
@@ -38,11 +38,9 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
-</div>
 
 **Development & CMS**
 
-<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,11 +52,9 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
 
 **Marketing & SEO**
 
-<div align="center">
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-F99A00?style=for-the-badge&logoColor=white)
@@ -68,8 +64,8 @@ I help founders and growing businesses turn ideas into memorable visual identiti
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-</div>
 
+</div>
 ---
 
 ## GitHub Stats
